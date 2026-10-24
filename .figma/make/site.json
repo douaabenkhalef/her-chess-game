@@ -1,0 +1,10 @@
+{
+  "description": "Play an engaging chess game featuring a stylish, girlie-themed design that combines classic strategy with a fun, feminine aesthetic.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
